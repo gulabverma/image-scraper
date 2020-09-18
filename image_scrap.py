@@ -101,10 +101,10 @@ def search_and_download(search_term: str, driver_path: str, target_path='./image
 # Step 5 : put it inside the same folder of this code
 
 DRIVER_PATH = "/home/nirav/Desktop/pythonWS/chromedriver"
-#driver = webdriver.Chrome(executable_path = DRIVER_PATH)
 
 
-#DRIVER_PATH = './chromedriver'
+
+
 search_term = 'Dog'
 # num of images you can pass it from here  by default it's 10 if you are not passing
 #number_images = 60
